@@ -1,5 +1,5 @@
 Variable Name,Description,Tipo	
-sexo,M = Masculino,F = 'Feminino',M/F
+sexo,M = 'Masculino',F = 'Feminino',M/F
 posse_de_veiculo,Y = 'possui'	 N = 'nao possui',Y/N
 posse_de_imovel,Y = 'possui'	 N = 'nao possui',Y/N
 qtd_filhos,Quantidade de filhos,inteiro	
